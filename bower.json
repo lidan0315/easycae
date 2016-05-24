@@ -1,0 +1,19 @@
+{
+  "name": "easycae",
+  "description": "cae仿真",
+  "main": "index.html",
+  "moduleType": ["amd"],
+  "keywords": [
+    "cae"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
